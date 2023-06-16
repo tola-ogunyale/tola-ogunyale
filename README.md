@@ -1,5 +1,5 @@
 <h1 align="center">・Hello, I'm Tola・</h1>
-<h3 align="center">A current MSCS student at UmassD</h3>
+<h3 align="center">A current MSCS student at University of Massaschuetts - Darthmouth </h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://tola-ogunyale.github.io/)
 
