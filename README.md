@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Visualization, and Advanced Computer Systems**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
